@@ -23,6 +23,8 @@
      - Paths are currently local (C:\Users\Ahmed\...), should be parameterized or 
        adapted for production environments.
 
+   Use :  Exec bronze.load_bronze;
+
    Author        : Ahmed
    Created On    : 2025-10-04
    Version       : 1.0
